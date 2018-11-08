@@ -1,0 +1,41 @@
+img{
+    width:300px;
+}
+body{
+    text-align:center;
+    background-color:black;
+}
+h1{
+    color:gold;
+    border:dashed;
+    border-color:white;
+}
+p{
+    color:white;
+}
+ul{
+    color:white;
+}
+img{
+    border:dashed;
+}
+body{
+    font-family: 'Lobster', cursive;
+    font-family: 'Courgette', cursive;
+}
+.whatever{
+    text-decoration:underline;
+}
+.dontknow{
+    text-decoration:overline;
+}
+.happy{
+    text-decoration:wavy underline;
+}
+.bad{
+    font-style:italic;
+}
+.bad{
+    text-decoration:underline;
+}
+    
